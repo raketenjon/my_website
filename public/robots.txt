@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://raketenjon.github.io/sitemap.xml
